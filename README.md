@@ -113,6 +113,14 @@ USE study;
 - [ ] 备份与恢复
 - [ ] 主从复制
 
+## 📂 项目目录
+
+| 目录 | 说明 |
+|------|------|
+| [docs/](./docs/) | 关于作者、学习路线图 |
+| [mysql/](./mysql/) | MySQL 核心教程 |
+| [resources/](./resources/) | SQL 示例代码 |
+
 ## 🤝 参与贡献
 
 欢迎提交 Issue 或 Pull Request 来改进这份笔记！
