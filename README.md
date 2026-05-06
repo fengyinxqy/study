@@ -49,6 +49,7 @@
 |------|------|------|
 | [MySQL](./mysql/) | 数据库核心教程 | 分页查询、索引、事务、JOIN、聚合函数 |
 | [Redis](./redis/) | 缓存基础概念 | 使用场景、过期策略、高性能原理、持久化 (RDB/AOF/COW)、5 种数据结构、缓存三大问题（穿透/击穿/雪崩）、集群和主从复制 |
+| [Egg.js](./egg/) | Node.js 企业级框架 | 约定优于配置、洋葱模型中间件、Controller/Service 分工、路由、错误处理 |
 
 ### 计划中的教程
 
@@ -102,6 +103,6 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 **🎉 祝你学习愉快，早日成为全栈开发者！**
 
-*Last updated: 2026-04-18 - Redis 集群和主从复制学习笔记已添加*
+*Last updated: 2026-04-24 - Egg.js 企业级框架学习笔记已添加*
 
 </div>
